@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amanuel2/CBCEL-community-forums.git"
+    "url": "git+https://github.com/Sebastianmol7/CBCEL-community-forums.git"
   },
   "authors": [
     "Shimzo",
@@ -24,7 +24,7 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amanuel2/CBCEL-community-forums/issues"
+    "url": "https://github.com/Sebastianmol7/CBCEL-community-forums/issues"
   },
-  "homepage": "https://github.com/amanuel2/CBCEL-community-forums#readme"
+  "homepage": "https://github.com/Sebastianmol7/CBCEL-community-forums#readme"
 }
