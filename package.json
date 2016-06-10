@@ -1,5 +1,5 @@
 {
-  "name": "ng-forum",
+  "name": "CBCEL-community-forums",
   "version": "1.0.0",
   "description": "Forum where developers around the world can ask questions, anwser questions, and also chat!",
   "main": "script.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amanuel2/ng-forum.git"
+    "url": "git+https://github.com/amanuel2/CBCEL-community-forums.git"
   },
   "authors": [
     "Shimzo",
@@ -24,7 +24,7 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amanuel2/ng-forum/issues"
+    "url": "https://github.com/amanuel2/CBCEL-community-forums/issues"
   },
-  "homepage": "https://github.com/amanuel2/ng-forum#readme"
+  "homepage": "https://github.com/amanuel2/CBCEL-community-forums#readme"
 }
